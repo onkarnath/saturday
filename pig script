@@ -1,4 +1,5 @@
 
 a = load 'sample.txt' ;
 b = filter a by $0;
-dump c;
+- dump c;
+store b into '/home/onkar';
