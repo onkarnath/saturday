@@ -15,7 +15,7 @@ import org.apache.hadoop.util.GenericOptionsParser;
 mapreduce  please refer it*/
 /*hi hello how are you*/
 
-
+/*please refer the below code*/ 
 public class WordCountNew {
 
   public static class TokenizerMapper
