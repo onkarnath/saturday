@@ -13,6 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 /*this is the word count program written in 
 mapreduce  please refer it*/
+/* hi how are you */
 
 
 public class WordCountNew {
